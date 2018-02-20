@@ -7,7 +7,7 @@ public class Day1Pt1 {
 
 	/*
 	 * Author: Cole Polyak
-	 * Advent of Code Day 1
+	 * Advent of Code 2017 Day 1 Part 1
 	 * 01 December 2017
 	 * 
 	 */
