@@ -14,7 +14,7 @@
 </ul>
 <p><em>What is the solution</em> to your captcha?</p>
 </article>
-<p>Your puzzle answer was <code>997</code>.</p><article class="day-desc"><h2>--- Part Two ---</h2><p>You notice a progress bar that jumps to 50% completion. Apparently, the door isn't yet satisfied, but it did emit a <em class="star">star</em> as encouragement. The instructions change:</p>
+<article class="day-desc"><h2>--- Part Two ---</h2><p>You notice a progress bar that jumps to 50% completion. Apparently, the door isn't yet satisfied, but it did emit a <em class="star">star</em> as encouragement. The instructions change:</p>
 <p>Now, instead of considering the <em>next</em> digit, it wants you to consider the digit <em>halfway around</em> the circular list.  That is, if your list contains <code>10</code> items, only include a digit in your sum if the digit <code>10/2 = 5</code> steps forward matches it. Fortunately, your list has an even number of elements.</p>
 <p>For example:</p>
 <ul>
