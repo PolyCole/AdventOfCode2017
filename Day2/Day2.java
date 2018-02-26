@@ -1,4 +1,5 @@
-import java.util.ArrayList;
+package aoc;
+
 import java.util.Scanner;
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
@@ -8,6 +9,9 @@ import java.io.FileNotFoundException;
  * 23 February 2018
  * Advent Of Code 2017 Day 2
  */
+
+// TODO Figure out a way to determine needed array size. ArrayLists?
+// TODO Implement safe file input.
 
 public class Day2 {
 
@@ -27,7 +31,6 @@ public class Day2 {
 		}
 		
 		// Creating spreadsheet array
-		// TODO Figure out a way to determine needed array size. ArrayLists?
 		int[][] spreadsheet = new int[16][16];
 		
 		// Initializes array.
