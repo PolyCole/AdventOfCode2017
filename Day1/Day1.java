@@ -1,3 +1,5 @@
+package aoc;
+
 //Import block
 import java.io.FileNotFoundException;
 import java.io.FileInputStream;
@@ -7,7 +9,7 @@ public class Day1 {
 
 	/*
 	 * Author: Cole Polyak
-	 * Advent of Code 2017 Day 1 Part 1
+	 * Advent of Code 2017 Day 1
 	 * 01 December 2017
 	 * 
 	 */
